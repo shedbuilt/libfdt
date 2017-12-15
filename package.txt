@@ -1,0 +1,5 @@
+NAME=libfdt
+VERSION=1.4.5
+REVISION=1
+SRC=https://github.com/dgibson/dtc/archive/v1.4.5.tar.gz
+SRCMD5=2914e2665d853ec7ff326ec57cebbcd5
